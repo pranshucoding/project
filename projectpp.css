@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-size: 50px;
+    font-family: Blackadder ITC;
+    color: blueviolet;
+}
+
+img {
+    height: 400px;
+}
+
+.class1 {
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top: 15px;
+    right: 25px;
+    cursor: pointer;
+    color: darkorange;
+    position: absolute;
+    z-index: 10px;
+}
+
+.links:hover {
+    background-color: chartreuse;
+}
